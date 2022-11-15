@@ -1,0 +1,27 @@
+body {
+    background-color: gainsboro;
+    width: 500px;
+    height: 1400px;
+    margin: auto;
+}
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    position: relative;
+    top: 80px;
+    left: 350px;
+}
+div {
+    position: relative;
+}
+fieldset {
+    background-color: lavender;
+    margin-bottom: auto;
+
+
+}
+legend {
+    background-color: lightslategray;
+    border-radius: 5px;
+}
